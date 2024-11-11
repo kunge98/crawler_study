@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/chapter4/video/1" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter4/video/不良人" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter4/video/白夜追凶" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter4/video/2" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter3/images" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter3/img" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter3/video" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter3/image" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter3/imgs" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7 (Crawler)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

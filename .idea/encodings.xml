@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/chapter2/01_re/02_re_douban.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2/01_re/03_re_movies_link.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter2/01_re/04_re_novel.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2/02_bs4/01_bs4.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2/02_bs4/02_bs4_vagetables_price.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter2/02_bs4/03_bs4_picture.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2/03_xpath/07_xpath_4kpicture.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3/02_防盗链.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4/05_爬取哈哩哈哩_复杂版(云播).py" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
